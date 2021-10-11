@@ -91,3 +91,4 @@ packages/*
 *.pdb
 *.recipe
 Debug/DataMiningLab1.exp
+Debug/DataMiningLab2.exp
