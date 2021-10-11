@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClInclude Include="include\MainHeader.hpp" />
     <ClInclude Include="include\Point\Point.hpp" />
+    <ClInclude Include="include\StudentsTable\StudentsTable.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
