@@ -154,7 +154,12 @@
     <ClCompile Include="src\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\DataGetter\IDataGetter.hpp" />
+    <ClInclude Include="include\DataGetter\JsonDataGetter.hpp" />
+    <ClInclude Include="include\DataGetter\TestExampleDataGetter.hpp" />
     <ClInclude Include="include\MainHeader.hpp" />
+    <ClInclude Include="include\Main\Main.hpp" />
+    <ClInclude Include="include\MathSolver\MathSolver.hpp" />
     <ClInclude Include="include\Point\Point.hpp" />
     <ClInclude Include="include\StudentsTable\StudentsTable.hpp" />
   </ItemGroup>
